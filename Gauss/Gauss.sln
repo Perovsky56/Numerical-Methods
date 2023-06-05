@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gauss", "Gauss\Gauss.csproj", "{B3FD9296-77E7-43B4-9C9D-F2C275AD0164}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIBLIOTEKA_L3", "..\BIBLIOTEKA_L3\BIBLIOTEKA_L3.csproj", "{4EA45452-CD04-4EFE-B0D8-03D4815822D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3FD9296-77E7-43B4-9C9D-F2C275AD0164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3FD9296-77E7-43B4-9C9D-F2C275AD0164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3FD9296-77E7-43B4-9C9D-F2C275AD0164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3FD9296-77E7-43B4-9C9D-F2C275AD0164}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EA45452-CD04-4EFE-B0D8-03D4815822D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA45452-CD04-4EFE-B0D8-03D4815822D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA45452-CD04-4EFE-B0D8-03D4815822D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA45452-CD04-4EFE-B0D8-03D4815822D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A2B1710-D26F-4FF0-9E32-E461FC062E54}
+	EndGlobalSection
+EndGlobal

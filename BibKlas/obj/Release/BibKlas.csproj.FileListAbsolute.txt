@@ -1,0 +1,11 @@
+D:\MetNum2020StudentInforC#2019\MojaBiblioteka\BibKlas\bin\Release\BibKlas.dll
+D:\MetNum2020StudentInforC#2019\MojaBiblioteka\BibKlas\bin\Release\BibKlas.pdb
+D:\MetNum2020StudentInforC#2019\MojaBiblioteka\BibKlas\obj\Release\BibKlas.csproj.CoreCompileInputs.cache
+D:\MetNum2020StudentInforC#2019\MojaBiblioteka\BibKlas\obj\Release\BibKlas.dll
+D:\MetNum2020StudentInforC#2019\MojaBiblioteka\BibKlas\obj\Release\BibKlas.pdb
+C:\MetNum2020StudentInforC#2019\MojaBiblioteka\BibKlas\bin\Release\BibKlas.dll
+C:\MetNum2020StudentInforC#2019\MojaBiblioteka\BibKlas\bin\Release\BibKlas.pdb
+C:\MetNum2020StudentInforC#2019\MojaBiblioteka\BibKlas\obj\Release\BibKlas.csprojAssemblyReference.cache
+C:\MetNum2020StudentInforC#2019\MojaBiblioteka\BibKlas\obj\Release\BibKlas.csproj.CoreCompileInputs.cache
+C:\MetNum2020StudentInforC#2019\MojaBiblioteka\BibKlas\obj\Release\BibKlas.dll
+C:\MetNum2020StudentInforC#2019\MojaBiblioteka\BibKlas\obj\Release\BibKlas.pdb

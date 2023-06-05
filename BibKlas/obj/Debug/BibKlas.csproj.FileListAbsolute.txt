@@ -1,0 +1,28 @@
+D:\MetNum64C#2008StudentInfor\MojaBiblioteka\BibKlas\bin\Debug\BibKlas.dll
+D:\MetNum64C#2008StudentInfor\MojaBiblioteka\BibKlas\bin\Debug\BibKlas.pdb
+D:\MetNum64C#2008StudentInfor\MojaBiblioteka\BibKlas\obj\Debug\BibKlas.dll
+D:\MetNum64C#2008StudentInfor\MojaBiblioteka\BibKlas\obj\Debug\BibKlas.pdb
+D:\MetNum64C#2008StudentInfor\MojaBiblioteka\BibKlas\obj\Debug\BibKlas.csprojResolveAssemblyReference.cache
+D:\MetNum2018StudentInfor\MojaBiblioteka\BibKlas\bin\Debug\BibKlas.dll
+D:\MetNum2018StudentInfor\MojaBiblioteka\BibKlas\bin\Debug\BibKlas.pdb
+D:\MetNum2018StudentInfor\MojaBiblioteka\BibKlas\obj\Debug\BibKlas.csprojResolveAssemblyReference.cache
+D:\MetNum2018StudentInfor\MojaBiblioteka\BibKlas\obj\Debug\BibKlas.dll
+D:\MetNum2018StudentInfor\MojaBiblioteka\BibKlas\obj\Debug\BibKlas.pdb
+D:\MetNum2020StudentInforC#2019\MojaBiblioteka\BibKlas\bin\Debug\BibKlas.dll
+D:\MetNum2020StudentInforC#2019\MojaBiblioteka\BibKlas\bin\Debug\BibKlas.pdb
+D:\MetNum2020StudentInforC#2019\MojaBiblioteka\BibKlas\obj\Debug\BibKlas.csproj.CoreCompileInputs.cache
+D:\MetNum2020StudentInforC#2019\MojaBiblioteka\BibKlas\obj\Debug\BibKlas.dll
+D:\MetNum2020StudentInforC#2019\MojaBiblioteka\BibKlas\obj\Debug\BibKlas.pdb
+D:\MetNum2020StudentInforC#2019\MojaBiblioteka\BibKlas\obj\Debug\BibKlas.csprojAssemblyReference.cache
+C:\MetNum2020StudentInforC#2019\MojaBiblioteka\BibKlas\bin\Debug\BibKlas.dll
+C:\MetNum2020StudentInforC#2019\MojaBiblioteka\BibKlas\bin\Debug\BibKlas.pdb
+C:\MetNum2020StudentInforC#2019\MojaBiblioteka\BibKlas\obj\Debug\BibKlas.csproj.CoreCompileInputs.cache
+C:\MetNum2020StudentInforC#2019\MojaBiblioteka\BibKlas\obj\Debug\BibKlas.dll
+C:\MetNum2020StudentInforC#2019\MojaBiblioteka\BibKlas\obj\Debug\BibKlas.pdb
+C:\MetNum2020StudentInforC#2019\MojaBiblioteka\BibKlas\obj\Debug\BibKlas.csprojAssemblyReference.cache
+C:\Users\Student\Source\Repos\Siem — kopia (2) — kopia\BibKlas\bin\Debug\BibKlas.dll
+C:\Users\Student\Source\Repos\Siem — kopia (2) — kopia\BibKlas\bin\Debug\BibKlas.pdb
+C:\Users\Student\Source\Repos\Siem — kopia (2) — kopia\BibKlas\obj\Debug\BibKlas.csprojAssemblyReference.cache
+C:\Users\Student\Source\Repos\Siem — kopia (2) — kopia\BibKlas\obj\Debug\BibKlas.csproj.CoreCompileInputs.cache
+C:\Users\Student\Source\Repos\Siem — kopia (2) — kopia\BibKlas\obj\Debug\BibKlas.dll
+C:\Users\Student\Source\Repos\Siem — kopia (2) — kopia\BibKlas\obj\Debug\BibKlas.pdb

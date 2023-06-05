@@ -1,0 +1,13 @@
+C:\Users\Student\Source\Repos\Siem\Gauss\Gauss\bin\Debug\Gauss.exe.config
+C:\Users\Student\Source\Repos\Siem\Gauss\Gauss\bin\Debug\Gauss.exe
+C:\Users\Student\Source\Repos\Siem\Gauss\Gauss\bin\Debug\Gauss.pdb
+C:\Users\Student\Source\Repos\Siem\Gauss\Gauss\obj\Debug\Gauss.csprojAssemblyReference.cache
+C:\Users\Student\Source\Repos\Siem\Gauss\Gauss\obj\Debug\Gauss.Form1.resources
+C:\Users\Student\Source\Repos\Siem\Gauss\Gauss\obj\Debug\Gauss.Properties.Resources.resources
+C:\Users\Student\Source\Repos\Siem\Gauss\Gauss\obj\Debug\Gauss.csproj.GenerateResource.cache
+C:\Users\Student\Source\Repos\Siem\Gauss\Gauss\obj\Debug\Gauss.csproj.CoreCompileInputs.cache
+C:\Users\Student\Source\Repos\Siem\Gauss\Gauss\obj\Debug\Gauss.exe
+C:\Users\Student\Source\Repos\Siem\Gauss\Gauss\obj\Debug\Gauss.pdb
+C:\Users\Student\Source\Repos\Siem\Gauss\Gauss\bin\Debug\BIBLIOTEKA_L3.dll
+C:\Users\Student\Source\Repos\Siem\Gauss\Gauss\bin\Debug\BIBLIOTEKA_L3.pdb
+C:\Users\Student\Source\Repos\Siem\Gauss\Gauss\obj\Debug\Gauss.csproj.CopyComplete

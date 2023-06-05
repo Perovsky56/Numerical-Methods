@@ -1,0 +1,19 @@
+C:\Users\Student\Source\Repos\Siem\Newton\Newton\bin\Debug\Newton.exe.config
+C:\Users\Student\Source\Repos\Siem\Newton\Newton\bin\Debug\Newton.exe
+C:\Users\Student\Source\Repos\Siem\Newton\Newton\bin\Debug\Newton.pdb
+C:\Users\Student\Source\Repos\Siem\Newton\Newton\obj\Debug\Newton.csprojAssemblyReference.cache
+C:\Users\Student\Source\Repos\Siem\Newton\Newton\obj\Debug\Newton.Properties.Resources.resources
+C:\Users\Student\Source\Repos\Siem\Newton\Newton\obj\Debug\Newton.csproj.GenerateResource.cache
+C:\Users\Student\Source\Repos\Siem\Newton\Newton\obj\Debug\Newton.csproj.CoreCompileInputs.cache
+C:\Users\Student\Source\Repos\Siem\Newton\Newton\obj\Debug\Newton.exe
+C:\Users\Student\Source\Repos\Siem\Newton\Newton\obj\Debug\Newton.pdb
+C:\Users\Student\Source\Repos\Siem — kopia (2)\Newton\Newton\bin\Debug\Newton.exe.config
+C:\Users\Student\Source\Repos\Siem — kopia (2)\Newton\Newton\bin\Debug\Newton.exe
+C:\Users\Student\Source\Repos\Siem — kopia (2)\Newton\Newton\bin\Debug\Newton.pdb
+C:\Users\Student\Source\Repos\Siem — kopia (2)\Newton\Newton\obj\Debug\Newton.csprojAssemblyReference.cache
+C:\Users\Student\Source\Repos\Siem — kopia (2)\Newton\Newton\obj\Debug\Newton.Form1.resources
+C:\Users\Student\Source\Repos\Siem — kopia (2)\Newton\Newton\obj\Debug\Newton.Properties.Resources.resources
+C:\Users\Student\Source\Repos\Siem — kopia (2)\Newton\Newton\obj\Debug\Newton.csproj.GenerateResource.cache
+C:\Users\Student\Source\Repos\Siem — kopia (2)\Newton\Newton\obj\Debug\Newton.csproj.CoreCompileInputs.cache
+C:\Users\Student\Source\Repos\Siem — kopia (2)\Newton\Newton\obj\Debug\Newton.exe
+C:\Users\Student\Source\Repos\Siem — kopia (2)\Newton\Newton\obj\Debug\Newton.pdb

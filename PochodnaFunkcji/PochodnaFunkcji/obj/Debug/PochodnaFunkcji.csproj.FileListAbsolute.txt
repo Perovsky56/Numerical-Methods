@@ -1,0 +1,4 @@
+C:\Users\Student\Source\Repos\Siem — kopia (2) — kopia\PochodnaFunkcji\PochodnaFunkcji\obj\Debug\PochodnaFunkcji.csprojAssemblyReference.cache
+C:\Users\Student\Source\Repos\Siem — kopia (2) — kopia\PochodnaFunkcji\PochodnaFunkcji\obj\Debug\PochodnaFunkcji.Properties.Resources.resources
+C:\Users\Student\Source\Repos\Siem — kopia (2) — kopia\PochodnaFunkcji\PochodnaFunkcji\obj\Debug\PochodnaFunkcji.csproj.GenerateResource.cache
+C:\Users\Student\Source\Repos\Siem — kopia (2) — kopia\PochodnaFunkcji\PochodnaFunkcji\obj\Debug\PochodnaFunkcji.csproj.CoreCompileInputs.cache

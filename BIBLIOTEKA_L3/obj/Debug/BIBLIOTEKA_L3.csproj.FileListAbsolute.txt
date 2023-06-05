@@ -1,0 +1,12 @@
+C:\Users\Student\Source\Repos\Siem\BIBLIOTEKA_L3\bin\Debug\BIBLIOTEKA_L3.dll
+C:\Users\Student\Source\Repos\Siem\BIBLIOTEKA_L3\bin\Debug\BIBLIOTEKA_L3.pdb
+C:\Users\Student\Source\Repos\Siem\BIBLIOTEKA_L3\obj\Debug\BIBLIOTEKA_L3.csprojAssemblyReference.cache
+C:\Users\Student\Source\Repos\Siem\BIBLIOTEKA_L3\obj\Debug\BIBLIOTEKA_L3.csproj.CoreCompileInputs.cache
+C:\Users\Student\Source\Repos\Siem\BIBLIOTEKA_L3\obj\Debug\BIBLIOTEKA_L3.dll
+C:\Users\Student\Source\Repos\Siem\BIBLIOTEKA_L3\obj\Debug\BIBLIOTEKA_L3.pdb
+C:\Users\Student\Source\Repos\Siem — kopia (2) — kopia\BIBLIOTEKA_L3\bin\Debug\BIBLIOTEKA_L3.dll
+C:\Users\Student\Source\Repos\Siem — kopia (2) — kopia\BIBLIOTEKA_L3\bin\Debug\BIBLIOTEKA_L3.pdb
+C:\Users\Student\Source\Repos\Siem — kopia (2) — kopia\BIBLIOTEKA_L3\obj\Debug\BIBLIOTEKA_L3.csprojAssemblyReference.cache
+C:\Users\Student\Source\Repos\Siem — kopia (2) — kopia\BIBLIOTEKA_L3\obj\Debug\BIBLIOTEKA_L3.csproj.CoreCompileInputs.cache
+C:\Users\Student\Source\Repos\Siem — kopia (2) — kopia\BIBLIOTEKA_L3\obj\Debug\BIBLIOTEKA_L3.dll
+C:\Users\Student\Source\Repos\Siem — kopia (2) — kopia\BIBLIOTEKA_L3\obj\Debug\BIBLIOTEKA_L3.pdb
